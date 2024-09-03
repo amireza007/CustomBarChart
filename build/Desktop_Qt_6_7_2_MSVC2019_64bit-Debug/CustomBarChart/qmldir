@@ -1,0 +1,5 @@
+module CustomBarChart
+typeinfo appCustomBarChart.qmltypes
+prefer :/qt/qml/CustomBarChart/
+Main 1.0 Main.qml
+

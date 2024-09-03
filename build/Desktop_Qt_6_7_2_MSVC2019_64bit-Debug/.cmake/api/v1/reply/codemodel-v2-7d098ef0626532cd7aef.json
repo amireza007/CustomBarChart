@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-3231828b52671ae5ab02.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CustomBarChart",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-7ad210278fe27922115c.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-a034e0bb2d06e09efa47.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-7ee7882e4dd42b1c8f42.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-101d7131d328f211f1d6.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCustomBarChart::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCustomBarChart-Debug-629a308a88352a78979e.json",
+					"name" : "appCustomBarChart",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCustomBarChart_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCustomBarChart_autogen-Debug-57bc7c585a6a80518d57.json",
+					"name" : "appCustomBarChart_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCustomBarChart_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCustomBarChart_autogen_timestamp_deps-Debug-225308b54f20fee509cb.json",
+					"name" : "appCustomBarChart_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCustomBarChart_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCustomBarChart_qmlimportscan-Debug-b4113079058ac7ee9c8a.json",
+					"name" : "appCustomBarChart_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCustomBarChart_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCustomBarChart_qmllint-Debug-01398170aa31b11ca664.json",
+					"name" : "appCustomBarChart_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCustomBarChart_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCustomBarChart_qmllint_json-Debug-365f4ba7be6d6eb6192e.json",
+					"name" : "appCustomBarChart_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCustomBarChart_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCustomBarChart_qmllint_module-Debug-de371f600146facb5c3a.json",
+					"name" : "appCustomBarChart_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCustomBarChart_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCustomBarChart_qmltyperegistration-Debug-3e4680e1bddd79248645.json",
+					"name" : "appCustomBarChart_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCustomBarChart_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCustomBarChart_tooling-Debug-29d4915244cca5526c9e.json",
+					"name" : "appCustomBarChart_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Asus/Projects/CustomBarChart/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug",
+		"source" : "C:/Users/Asus/Projects/CustomBarChart"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
