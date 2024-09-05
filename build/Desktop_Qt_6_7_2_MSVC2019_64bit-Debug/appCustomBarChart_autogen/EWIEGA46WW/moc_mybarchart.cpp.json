@@ -1,0 +1,29 @@
+{
+    "classes": [
+        {
+            "className": "myBarChart",
+            "interfaces": [
+                [
+                    {
+                        "className": "QDesignerCustomWidgetInterface",
+                        "id": "\"org.qt-project.QDesignerCustomWidgetInterface\""
+                    }
+                ]
+            ],
+            "object": true,
+            "qualifiedClassName": "myBarChart",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                },
+                {
+                    "access": "public",
+                    "name": "QDesignerCustomWidgetInterface"
+                }
+            ]
+        }
+    ],
+    "inputFile": "mybarchart.h",
+    "outputRevision": 68
+}

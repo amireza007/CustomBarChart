@@ -1,0 +1,1679 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "appCustomBarChart.exe"
+		},
+		{
+			"path" : "appCustomBarChart.pdb"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"_qt_internal_create_executable",
+			"qt6_add_executable",
+			"qt_add_executable",
+			"install",
+			"target_link_libraries",
+			"set_target_properties",
+			"include",
+			"find_package",
+			"qt6_add_qml_module",
+			"qt_add_qml_module",
+			"find_dependency",
+			"_qt_internal_find_qt_dependencies",
+			"add_dependencies",
+			"qt6_target_qml_sources",
+			"_qt_internal_scan_qml_imports",
+			"_qt_internal_generate_deploy_qml_imports_script",
+			"cmake_language",
+			"_qt_internal_finalize_executable",
+			"qt6_finalize_target",
+			"target_include_directories",
+			"_qt_internal_qml_type_registration",
+			"target_sources",
+			"qt6_extract_metatypes",
+			"set_source_files_properties",
+			"__qt_propagate_generated_resource",
+			"_qt_internal_process_resource",
+			"qt6_add_resources",
+			"_qt_internal_target_enable_qmlcachegen",
+			"_qt_internal_expose_deferred_files_to_ide"
+		],
+		"files" : 
+		[
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"CMakeLists.txt",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6Quick/Qt6QuickTargets.cmake",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6/Qt6Config.cmake",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6Qml/Qt6QmlTargets.cmake",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6Qml/Qt6QmlConfig.cmake",
+			"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6Quick/Qt6QuickDependencies.cmake",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6Network/Qt6NetworkVersionlessTargets.cmake",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6Network/Qt6NetworkConfig.cmake",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6Qml/Qt6QmlDependencies.cmake",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6Network/Qt6NetworkTargets.cmake",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6Xml/Qt6XmlVersionlessTargets.cmake",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6Xml/Qt6XmlConfig.cmake",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6Designer/Qt6DesignerDependencies.cmake",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6Designer/Qt6DesignerConfig.cmake",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsVersionlessTargets.cmake",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsConfig.cmake",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6OpenGL/Qt6OpenGLVersionlessTargets.cmake",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6OpenGL/Qt6OpenGLConfig.cmake",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreTargets.cmake",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets.cmake",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfig.cmake",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake",
+			"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:743:EVAL"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 12,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 869,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 575,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 629,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 59,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 38,
+				"parent" : 0
+			},
+			{
+				"command" : 8,
+				"file" : 1,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"file" : 4,
+				"parent" : 7
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 169,
+				"parent" : 8
+			},
+			{
+				"file" : 3,
+				"parent" : 9
+			},
+			{
+				"command" : 7,
+				"file" : 3,
+				"line" : 55,
+				"parent" : 10
+			},
+			{
+				"file" : 2,
+				"parent" : 11
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 61,
+				"parent" : 12
+			},
+			{
+				"command" : 10,
+				"file" : 1,
+				"line" : 17,
+				"parent" : 0
+			},
+			{
+				"command" : 9,
+				"file" : 5,
+				"line" : 780,
+				"parent" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 5,
+				"line" : 392,
+				"parent" : 15
+			},
+			{
+				"command" : 7,
+				"file" : 3,
+				"line" : 43,
+				"parent" : 10
+			},
+			{
+				"file" : 10,
+				"parent" : 17
+			},
+			{
+				"command" : 12,
+				"file" : 10,
+				"line" : 42,
+				"parent" : 18
+			},
+			{
+				"command" : 11,
+				"file" : 9,
+				"line" : 111,
+				"parent" : 19
+			},
+			{
+				"command" : 8,
+				"file" : 8,
+				"line" : 76,
+				"parent" : 20
+			},
+			{
+				"file" : 7,
+				"parent" : 21
+			},
+			{
+				"command" : 7,
+				"file" : 7,
+				"line" : 56,
+				"parent" : 22
+			},
+			{
+				"file" : 6,
+				"parent" : 23
+			},
+			{
+				"command" : 6,
+				"file" : 6,
+				"line" : 61,
+				"parent" : 24
+			},
+			{
+				"command" : 7,
+				"file" : 7,
+				"line" : 44,
+				"parent" : 22
+			},
+			{
+				"file" : 13,
+				"parent" : 26
+			},
+			{
+				"command" : 12,
+				"file" : 13,
+				"line" : 42,
+				"parent" : 27
+			},
+			{
+				"command" : 11,
+				"file" : 9,
+				"line" : 111,
+				"parent" : 28
+			},
+			{
+				"command" : 8,
+				"file" : 8,
+				"line" : 76,
+				"parent" : 29
+			},
+			{
+				"file" : 12,
+				"parent" : 30
+			},
+			{
+				"command" : 7,
+				"file" : 12,
+				"line" : 60,
+				"parent" : 31
+			},
+			{
+				"file" : 11,
+				"parent" : 32
+			},
+			{
+				"command" : 6,
+				"file" : 11,
+				"line" : 61,
+				"parent" : 33
+			},
+			{
+				"command" : 7,
+				"file" : 12,
+				"line" : 55,
+				"parent" : 31
+			},
+			{
+				"file" : 14,
+				"parent" : 35
+			},
+			{
+				"command" : 6,
+				"file" : 14,
+				"line" : 61,
+				"parent" : 36
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 169,
+				"parent" : 8
+			},
+			{
+				"file" : 18,
+				"parent" : 38
+			},
+			{
+				"command" : 7,
+				"file" : 18,
+				"line" : 43,
+				"parent" : 39
+			},
+			{
+				"file" : 17,
+				"parent" : 40
+			},
+			{
+				"command" : 12,
+				"file" : 17,
+				"line" : 42,
+				"parent" : 41
+			},
+			{
+				"command" : 11,
+				"file" : 9,
+				"line" : 111,
+				"parent" : 42
+			},
+			{
+				"command" : 8,
+				"file" : 8,
+				"line" : 76,
+				"parent" : 43
+			},
+			{
+				"file" : 16,
+				"parent" : 44
+			},
+			{
+				"command" : 7,
+				"file" : 16,
+				"line" : 60,
+				"parent" : 45
+			},
+			{
+				"file" : 15,
+				"parent" : 46
+			},
+			{
+				"command" : 6,
+				"file" : 15,
+				"line" : 61,
+				"parent" : 47
+			},
+			{
+				"command" : 11,
+				"file" : 9,
+				"line" : 111,
+				"parent" : 42
+			},
+			{
+				"command" : 8,
+				"file" : 8,
+				"line" : 76,
+				"parent" : 49
+			},
+			{
+				"file" : 20,
+				"parent" : 50
+			},
+			{
+				"command" : 7,
+				"file" : 20,
+				"line" : 60,
+				"parent" : 51
+			},
+			{
+				"file" : 19,
+				"parent" : 52
+			},
+			{
+				"command" : 6,
+				"file" : 19,
+				"line" : 61,
+				"parent" : 53
+			},
+			{
+				"command" : 11,
+				"file" : 9,
+				"line" : 111,
+				"parent" : 19
+			},
+			{
+				"command" : 8,
+				"file" : 8,
+				"line" : 76,
+				"parent" : 55
+			},
+			{
+				"file" : 22,
+				"parent" : 56
+			},
+			{
+				"command" : 7,
+				"file" : 22,
+				"line" : 60,
+				"parent" : 57
+			},
+			{
+				"file" : 21,
+				"parent" : 58
+			},
+			{
+				"command" : 6,
+				"file" : 21,
+				"line" : 61,
+				"parent" : 59
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 576,
+				"parent" : 2
+			},
+			{
+				"command" : 11,
+				"file" : 9,
+				"line" : 111,
+				"parent" : 19
+			},
+			{
+				"command" : 8,
+				"file" : 8,
+				"line" : 76,
+				"parent" : 62
+			},
+			{
+				"file" : 24,
+				"parent" : 63
+			},
+			{
+				"command" : 7,
+				"file" : 24,
+				"line" : 57,
+				"parent" : 64
+			},
+			{
+				"file" : 23,
+				"parent" : 65
+			},
+			{
+				"command" : 6,
+				"file" : 23,
+				"line" : 61,
+				"parent" : 66
+			},
+			{
+				"command" : 7,
+				"file" : 24,
+				"line" : 45,
+				"parent" : 64
+			},
+			{
+				"file" : 27,
+				"parent" : 68
+			},
+			{
+				"command" : 12,
+				"file" : 27,
+				"line" : 42,
+				"parent" : 69
+			},
+			{
+				"command" : 11,
+				"file" : 9,
+				"line" : 111,
+				"parent" : 70
+			},
+			{
+				"command" : 8,
+				"file" : 8,
+				"line" : 76,
+				"parent" : 71
+			},
+			{
+				"file" : 26,
+				"parent" : 72
+			},
+			{
+				"command" : 7,
+				"file" : 26,
+				"line" : 55,
+				"parent" : 73
+			},
+			{
+				"file" : 25,
+				"parent" : 74
+			},
+			{
+				"command" : 6,
+				"file" : 25,
+				"line" : 61,
+				"parent" : 75
+			},
+			{
+				"command" : 11,
+				"file" : 9,
+				"line" : 111,
+				"parent" : 19
+			},
+			{
+				"command" : 8,
+				"file" : 8,
+				"line" : 76,
+				"parent" : 77
+			},
+			{
+				"file" : 29,
+				"parent" : 78
+			},
+			{
+				"command" : 7,
+				"file" : 29,
+				"line" : 55,
+				"parent" : 79
+			},
+			{
+				"file" : 28,
+				"parent" : 80
+			},
+			{
+				"command" : 6,
+				"file" : 28,
+				"line" : 61,
+				"parent" : 81
+			},
+			{
+				"command" : 14,
+				"file" : 5,
+				"line" : 647,
+				"parent" : 15
+			},
+			{
+				"command" : 13,
+				"file" : 5,
+				"line" : 2751,
+				"parent" : 83
+			},
+			{
+				"file" : 1,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 19,
+				"file" : 30,
+				"line" : 1,
+				"parent" : 85
+			},
+			{
+				"command" : 18,
+				"file" : 0,
+				"line" : 774,
+				"parent" : 86
+			},
+			{
+				"command" : 17,
+				"file" : 0,
+				"line" : 678,
+				"parent" : 87
+			},
+			{
+				"command" : 16,
+				"file" : 0,
+				"line" : 678,
+				"parent" : 88
+			},
+			{
+				"command" : 15,
+				"file" : 5,
+				"line" : 3545,
+				"parent" : 89
+			},
+			{
+				"command" : 13,
+				"file" : 5,
+				"line" : 3350,
+				"parent" : 90
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 541,
+				"parent" : 15
+			},
+			{
+				"command" : 20,
+				"file" : 5,
+				"line" : 3078,
+				"parent" : 92
+			},
+			{
+				"command" : 20,
+				"file" : 5,
+				"line" : 3103,
+				"parent" : 92
+			},
+			{
+				"command" : 23,
+				"file" : 5,
+				"line" : 2903,
+				"parent" : 92
+			},
+			{
+				"command" : 22,
+				"file" : 0,
+				"line" : 1415,
+				"parent" : 95
+			},
+			{
+				"command" : 22,
+				"file" : 5,
+				"line" : 3069,
+				"parent" : 92
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 3093,
+				"parent" : 92
+			},
+			{
+				"command" : 27,
+				"file" : 5,
+				"line" : 590,
+				"parent" : 15
+			},
+			{
+				"command" : 26,
+				"file" : 0,
+				"line" : 337,
+				"parent" : 99
+			},
+			{
+				"command" : 25,
+				"file" : 0,
+				"line" : 2390,
+				"parent" : 100
+			},
+			{
+				"command" : 22,
+				"file" : 0,
+				"line" : 2004,
+				"parent" : 101
+			},
+			{
+				"command" : 22,
+				"file" : 5,
+				"line" : 637,
+				"parent" : 15
+			},
+			{
+				"command" : 22,
+				"file" : 5,
+				"line" : 2535,
+				"parent" : 83
+			},
+			{
+				"command" : 28,
+				"file" : 5,
+				"line" : 2639,
+				"parent" : 83
+			},
+			{
+				"command" : 22,
+				"file" : 5,
+				"line" : 1248,
+				"parent" : 105
+			},
+			{
+				"command" : 22,
+				"file" : 5,
+				"line" : 2687,
+				"parent" : 83
+			},
+			{
+				"command" : 27,
+				"file" : 5,
+				"line" : 2770,
+				"parent" : 83
+			},
+			{
+				"command" : 26,
+				"file" : 0,
+				"line" : 337,
+				"parent" : 108
+			},
+			{
+				"command" : 25,
+				"file" : 0,
+				"line" : 2390,
+				"parent" : 109
+			},
+			{
+				"command" : 22,
+				"file" : 0,
+				"line" : 2004,
+				"parent" : 110
+			},
+			{
+				"command" : 29,
+				"file" : 0,
+				"line" : 768,
+				"parent" : 86
+			},
+			{
+				"command" : 22,
+				"file" : 0,
+				"line" : 2117,
+				"parent" : 112
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-DQT_QML_DEBUG /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd"
+				},
+				{
+					"backtrace" : 61,
+					"fragment" : "-Zc:__cplusplus"
+				},
+				{
+					"backtrace" : 61,
+					"fragment" : "-permissive-"
+				},
+				{
+					"backtrace" : 61,
+					"fragment" : "-utf-8"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 61,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_DESIGNER_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_OPENGLWIDGETS_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "QT_QMLBUILTINS_LIB"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_QMLMODELS_LIB"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_QUICK_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_UIPLUGIN_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_WIDGETS_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_XML_LIB"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "UNICODE"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "WIN32"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "WIN64"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "_ENABLE_EXTENDED_ALIGNED_STORAGE"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "_UNICODE"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "_WIN64"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "C:/Users/Asus/Projects/CustomBarChart/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/appCustomBarChart_autogen/include"
+				},
+				{
+					"backtrace" : 93,
+					"path" : "C:/Users/Asus/Projects/CustomBarChart"
+				},
+				{
+					"backtrace" : 94,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtQml/6.7.2"
+				},
+				{
+					"backtrace" : 94,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtQml/6.7.2/QtQml"
+				},
+				{
+					"backtrace" : 94,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtCore/6.7.2"
+				},
+				{
+					"backtrace" : 94,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtCore/6.7.2/QtCore"
+				},
+				{
+					"backtrace" : 94,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtCore"
+				},
+				{
+					"backtrace" : 94,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include"
+				},
+				{
+					"backtrace" : 94,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/mkspecs/win32-msvc"
+				},
+				{
+					"backtrace" : 94,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtQmlBuiltins/6.7.2"
+				},
+				{
+					"backtrace" : 94,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtQmlBuiltins/6.7.2/QtQmlBuiltins"
+				},
+				{
+					"backtrace" : 94,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtQmlBuiltins"
+				},
+				{
+					"backtrace" : 94,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtQml"
+				},
+				{
+					"backtrace" : 94,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 94,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtNetwork"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtQuick"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtGui"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtQmlModels"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtOpenGL"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtUiPlugin"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtWidgets"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtDesigner"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtXml"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtOpenGLWidgets"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					61
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				5,
+				8,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-DQT_QML_DEBUG /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd"
+				},
+				{
+					"backtrace" : 61,
+					"fragment" : "-Zc:__cplusplus"
+				},
+				{
+					"backtrace" : 61,
+					"fragment" : "-permissive-"
+				},
+				{
+					"backtrace" : 61,
+					"fragment" : "-utf-8"
+				},
+				{
+					"backtrace" : 98,
+					"fragment" : "/bigobj"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 61,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_DESIGNER_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_OPENGLWIDGETS_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "QT_QMLBUILTINS_LIB"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_QMLMODELS_LIB"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_QUICK_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_UIPLUGIN_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_WIDGETS_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_XML_LIB"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "UNICODE"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "WIN32"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "WIN64"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "_ENABLE_EXTENDED_ALIGNED_STORAGE"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "_UNICODE"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "_WIN64"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "C:/Users/Asus/Projects/CustomBarChart/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/appCustomBarChart_autogen/include"
+				},
+				{
+					"backtrace" : 93,
+					"path" : "C:/Users/Asus/Projects/CustomBarChart"
+				},
+				{
+					"backtrace" : 94,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtQml/6.7.2"
+				},
+				{
+					"backtrace" : 94,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtQml/6.7.2/QtQml"
+				},
+				{
+					"backtrace" : 94,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtCore/6.7.2"
+				},
+				{
+					"backtrace" : 94,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtCore/6.7.2/QtCore"
+				},
+				{
+					"backtrace" : 94,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtCore"
+				},
+				{
+					"backtrace" : 94,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include"
+				},
+				{
+					"backtrace" : 94,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/mkspecs/win32-msvc"
+				},
+				{
+					"backtrace" : 94,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtQmlBuiltins/6.7.2"
+				},
+				{
+					"backtrace" : 94,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtQmlBuiltins/6.7.2/QtQmlBuiltins"
+				},
+				{
+					"backtrace" : 94,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtQmlBuiltins"
+				},
+				{
+					"backtrace" : 94,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtQml"
+				},
+				{
+					"backtrace" : 94,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 94,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtNetwork"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtQuick"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtGui"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtQmlModels"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtOpenGL"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtUiPlugin"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtWidgets"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtDesigner"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtXml"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/msvc2019_64/include/QtOpenGLWidgets"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					61
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				4
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 84,
+			"id" : "appCustomBarChart_tooling::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 91,
+			"id" : "appCustomBarChart_qmlimportscan::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "appCustomBarChart_autogen::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "appCustomBarChart_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "appCustomBarChart::@6890427a1f51a3e7e1df",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 5,
+				"path" : "C:/Qt/6.7.2/msvc2019_64/./plugins/designer"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "C:/Program Files (x86)/CustomBarChart"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-DQT_QML_DEBUG /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "/machine:x64 /debug /INCREMENTAL /subsystem:windows",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "C:\\Qt\\6.7.2\\msvc2019_64\\lib\\Qt6Quickd.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "C:\\Qt\\6.7.2\\msvc2019_64\\lib\\Qt6Designerd.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "C:\\Qt\\6.7.2\\msvc2019_64\\lib\\Qt6QmlModelsd.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 16,
+				"fragment" : "C:\\Qt\\6.7.2\\msvc2019_64\\lib\\Qt6Qmld.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 25,
+				"fragment" : "C:\\Qt\\6.7.2\\msvc2019_64\\lib\\Qt6QmlBuiltinsd.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 34,
+				"fragment" : "C:\\Qt\\6.7.2\\msvc2019_64\\lib\\Qt6Networkd.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 37,
+				"fragment" : "ws2_32.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "user32.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 48,
+				"fragment" : "C:\\Qt\\6.7.2\\msvc2019_64\\lib\\Qt6Xmld.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 54,
+				"fragment" : "C:\\Qt\\6.7.2\\msvc2019_64\\lib\\Qt6OpenGLWidgetsd.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "C:\\Qt\\6.7.2\\msvc2019_64\\lib\\Qt6Widgetsd.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 60,
+				"fragment" : "C:\\Qt\\6.7.2\\msvc2019_64\\lib\\Qt6OpenGLd.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "C:\\Qt\\6.7.2\\msvc2019_64\\lib\\Qt6Guid.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 61,
+				"fragment" : "C:\\Qt\\6.7.2\\msvc2019_64\\lib\\Qt6Cored.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 67,
+				"fragment" : "mpr.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 67,
+				"fragment" : "userenv.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 76,
+				"fragment" : "C:\\Qt\\6.7.2\\msvc2019_64\\lib\\Qt6EntryPointd.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 25,
+				"fragment" : "shell32.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 82,
+				"fragment" : "d3d11.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 82,
+				"fragment" : "dxgi.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 82,
+				"fragment" : "dxguid.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 82,
+				"fragment" : "d3d12.lib",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "appCustomBarChart",
+	"nameOnDisk" : "appCustomBarChart.exe",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files\\Generated",
+			"sourceIndexes" : 
+			[
+				0,
+				17,
+				18,
+				19,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				4,
+				5,
+				8,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				3,
+				9,
+				13,
+				14,
+				15,
+				16
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				6,
+				7
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/appCustomBarChart_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "main.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "mybarchart.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 96,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/meta_types/qt6appcustombarchart_debug_metatypes.json.gen",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 97,
+			"compileGroupIndex" : 1,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/appcustombarchart_qmltyperegistrations.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 102,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/.qt/rcc/qrc_qmake_CustomBarChart.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 103,
+			"path" : "mybarchart.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 103,
+			"path" : "analogclock.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 103,
+			"compileGroupIndex" : 0,
+			"path" : "analogclock.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 104,
+			"path" : "Main.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 106,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/.rcc/qmlcache/appCustomBarChart_qmlcache_loader.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 107,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/.rcc/qmlcache/appCustomBarChart_Main_qml.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 111,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/.qt/rcc/qrc_appCustomBarChart_raw_qml_0.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 113,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/.qt/rcc/qmake_CustomBarChart.qrc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 113,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CustomBarChart/qmldir",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 113,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/.qt/rcc/appCustomBarChart_raw_qml_0.qrc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 113,
+			"path" : "BarChartQt.ui",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/appCustomBarChart_autogen/include/ui_BarChartQt.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/appCustomBarChart_autogen/include/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CustomBarChart/ui_BarChartQt.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/appCustomBarChart_autogen/timestamp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/meta_types/qt6appcustombarchart_debug_metatypes.json.gen.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/appcustombarchart_qmltyperegistrations.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/.qt/rcc/qrc_qmake_CustomBarChart.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/.rcc/qmlcache/appCustomBarChart_qmlcache_loader.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/.rcc/qmlcache/appCustomBarChart_Main_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/.qt/rcc/qrc_appCustomBarChart_raw_qml_0.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/appCustomBarChart_autogen/timestamp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/meta_types/appCustomBarChart_json_file_list.txt.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 61,
+			"path" : "C:/Qt/6.7.2/msvc2019_64/metatypes/qt6core_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 16,
+			"path" : "C:/Qt/6.7.2/msvc2019_64/metatypes/qt6qml_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 16,
+			"path" : "C:/Qt/6.7.2/msvc2019_64/metatypes/qt6qmlbuiltins_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 16,
+			"path" : "C:/Qt/6.7.2/msvc2019_64/metatypes/qt6network_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "C:/Qt/6.7.2/msvc2019_64/metatypes/qt6quick_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "C:/Qt/6.7.2/msvc2019_64/metatypes/qt6gui_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "C:/Qt/6.7.2/msvc2019_64/metatypes/qt6qmlmodels_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "C:/Qt/6.7.2/msvc2019_64/metatypes/qt6opengl_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "C:/Qt/6.7.2/msvc2019_64/metatypes/qt6widgets_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "C:/Qt/6.7.2/msvc2019_64/metatypes/qt6designer_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "C:/Qt/6.7.2/msvc2019_64/metatypes/qt6xml_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "C:/Qt/6.7.2/msvc2019_64/metatypes/qt6openglwidgets_metatypes.json",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

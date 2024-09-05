@@ -1,6 +1,7 @@
 <RCC>
   <qresource prefix="/qt/qml/CustomBarChart/">
     <file alias="Main.qml">C:/Users/Asus/Projects/CustomBarChart/Main.qml</file>
+    <file alias="BarChartQt.ui">C:/Users/Asus/Projects/CustomBarChart/BarChartQt.ui</file>
   </qresource>
 </RCC>
 

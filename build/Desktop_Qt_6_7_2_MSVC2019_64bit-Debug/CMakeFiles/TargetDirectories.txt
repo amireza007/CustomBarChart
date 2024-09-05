@@ -1,3 +1,5 @@
+C:/Users/Asus/Projects/CustomBarChart/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/mybarchart.dir
+C:/Users/Asus/Projects/CustomBarChart/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/qt_internal_plugins.dir
 C:/Users/Asus/Projects/CustomBarChart/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/appCustomBarChart.dir
 C:/Users/Asus/Projects/CustomBarChart/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/appCustomBarChart_qmltyperegistration.dir
 C:/Users/Asus/Projects/CustomBarChart/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/all_qmltyperegistrations.dir
@@ -14,5 +16,7 @@ C:/Users/Asus/Projects/CustomBarChart/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debu
 C:/Users/Asus/Projects/CustomBarChart/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/list_install_components.dir
 C:/Users/Asus/Projects/CustomBarChart/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/install.dir
 C:/Users/Asus/Projects/CustomBarChart/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Asus/Projects/CustomBarChart/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/mybarchart_autogen_timestamp_deps.dir
+C:/Users/Asus/Projects/CustomBarChart/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/mybarchart_autogen.dir
 C:/Users/Asus/Projects/CustomBarChart/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/appCustomBarChart_autogen_timestamp_deps.dir
 C:/Users/Asus/Projects/CustomBarChart/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/appCustomBarChart_autogen.dir
